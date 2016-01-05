@@ -1,4 +1,4 @@
-# TeskListDemo
+# TaskListDemo
 
 An attempt to a demo web application for maintaining task lists. The main requirements were:
 
